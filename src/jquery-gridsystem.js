@@ -1,3 +1,11 @@
+/*!
+ * jQuery Gridsystem Plugin
+ * https://github.com/rimien/jquery-gridsystem
+ *
+ * Copyright 2011
+ * https://github.com/rimien/jquery-gridsystem/blob/master/LICENSE
+ *
+ */
 (function($) {
 	$.fn.gridxy = function(options) {
 
