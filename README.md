@@ -13,7 +13,6 @@ Just add the following hashes to your URL and the grid system overlay will be di
 </ul>
 
 	Example: http://example.com/#grid
-or
-	Example: http://example.com/#gridx for column view only
-
+or, for column view:
+	Example: http://example.com/#gridx 
 
