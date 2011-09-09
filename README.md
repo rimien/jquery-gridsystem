@@ -8,7 +8,11 @@ Just add the following hashes to your URL and the grid system overlay will be di
 
 <ul>
 	<li>#grid</li>
+	<li>#gridx</li>
+	<li>#gridy</li>
 </ul>
+
+	Example: http://example.com/#grid
 
 
 
