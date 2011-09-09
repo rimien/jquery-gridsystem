@@ -6,12 +6,12 @@ A simple and decent gridsystem overlay.
 Attach it to the grid system container element:
 
 <pre><code>
-$('#container').gridxy();
+$('#container').gridsystem();
 </code></pre>
 
 customize:
 <pre><code>
-$('#container').gridxy({
+$('#container').gridsystem({
 			'gridWidth' : 960,
 			'cols' : 12,
 			'gutterWidth' : 20,

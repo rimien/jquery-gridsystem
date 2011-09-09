@@ -7,7 +7,7 @@
  *
  */
 (function($) {
-	$.fn.gridxy = function(options) {
+	$.fn.gridsystem = function(options) {
 
 		// default settings
 		var settings = {
