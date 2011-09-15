@@ -38,5 +38,5 @@ or
 	Example: http://example.com/#gridx 
 
 ## Contact
-Don't hesitate to contact me on [twitter](https://twitter.com/#!/gorbach)
+Don't hesitate to contact me on [twitter](https://twitter.com/#!/gorbach). 
 
