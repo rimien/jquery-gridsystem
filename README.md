@@ -39,7 +39,7 @@ or
 
 
 ## Screenshots
-[screenshot-1]: screenshots/screenshot-1.png  "Demo Screenshot 1"
+![Screenshot #1](screenshots/screenshot-1.png) Screenshot #1  
 
 
 ## Contact
