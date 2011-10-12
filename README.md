@@ -38,8 +38,8 @@ or
 	Example: http://example.com/#gridx 
 
 
-## Screenshots
-![picture alt](screenshots/screenshot-1.png "Title is optional")
+## Example Screenshot
+![Screenshot](https://github.com/rimien/jquery-gridsystem/blob/master/screenshots/screenshot-1.png?raw=true "Example Screenshot")
 
 
 ## Contact
