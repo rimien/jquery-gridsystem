@@ -39,7 +39,7 @@ or
 
 
 ## Screenshots
-![Screenshot #1](https://github.com/rimien/jquery-gridsystem/blob/master/screenshots/screenshot-1.png) Screenshot #1  
+![picture alt](/screenshots/screenshot-1.png "Title is optional")
 
 
 ## Contact
