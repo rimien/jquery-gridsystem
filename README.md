@@ -39,7 +39,7 @@ or
 
 
 ## Screenshots
-![picture alt](/screenshots/screenshot-1.png "Title is optional")
+![picture alt](screenshots/screenshot-1.png "Title is optional")
 
 
 ## Contact
